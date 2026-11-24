@@ -1,0 +1,6 @@
+{
+  "name": "Navula",
+  "description": "Navula — modern streaming app for spacedom.live and cloud provider extensions with search history, bookmarks, and an offline Media3 video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
